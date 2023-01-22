@@ -1,0 +1,55 @@
+[
+  {
+    "entity": "festivals of India",
+    "images": [
+      "https://www.transindiatravels.com/wp-content/uploads/holi.jpg",
+      "https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2018/12/25062121/Diwali_Festival-300x200.jpg",
+      "https://static.toiimg.com/photo/76710241/76710241.jpg?v=3",
+      "https://upload.wikimedia.org/wikipedia/commons/5/53/Photo_of_makar_sankranti_devootees.jpg",
+      "https://navbharattimes.indiatimes.com/photo/msid-65473071,imgsize-410202/pic.jpg"
+    ],
+    "Desc": [
+      "Holi",
+      "Diwali",
+      "Ganesh chaturthi",
+      "Makar Sankranthi",
+      "Raksha Bandhan"
+    ]  },
+  {
+    "entity": "Places to visit in India",
+    "images": [
+      "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-agra.jpg",
+      "https://d3hne3c382ip58.cloudfront.net/files/uploads/bookmundi/resized/cms/amritsar-india-1545721043-735X412.jpg",
+      "https://d3hne3c382ip58.cloudfront.net/files/uploads/bookmundi/resized/cms/manali-india-1545721423-735X412.jpg",
+      "https://d3hne3c382ip58.cloudfront.net/files/uploads/bookmundi/resized/cms/kashmir-india-1545722107-735X412.jpg",
+      "https://d3hne3c382ip58.cloudfront.net/files/uploads/bookmundi/resized/cms/rajasthan-lake-pichola-1542705193-735X412.jpg"
+      
+    ],
+    "Desc": [
+      "Tajmahal",
+      "Golden Temple",
+      "Manali",
+      "Kashmir",
+      "Rajasthan"
+      
+  ]
+  },
+
+  {
+    "entity": "cars",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4M9KI_4aRw3oCydWnNUuQKfvC_yfStPzhoA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfUQdRmkbgJbIy8rZhQlt68zQ5DCbNvybpw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR1RqW6obutZF-vMluIEbNktHDMIJrhze8E3pOPIp8aI-zs4cDltMDWKukAMyP_-Yo4sQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcX9DX7ew5OmXIdNVUUeogrbx29PQoa8jqrA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPFuXfzuLlkO5m0CTyBBGyAxDLX6xk7rahQ&usqp=CAU"
+
+    ],
+    "Desc": ["Luxurious car ever ",
+      "Classic sports car",
+    "Lamborigini car",
+     "Buggati",
+    "Electric car"]
+  }
+
+]

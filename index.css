@@ -1,0 +1,25 @@
+.imgstyle{
+      height: 250px;
+      width: 200px;
+      border:2px solid black;
+      margin: 10px;
+}
+body{
+      background-color: #7a2727;
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ305E_jx0OZgPzgaSB3nQhGm5I8dvUPjs6YQ&usqp=CAU");
+      background-repeat: no-repeat;
+      background-position:center center;
+      background-size:105rem;
+      overflow-x: hidden;
+}
+.ji{
+      background-color: rgb(110, 144, 174);
+}
+.desc{
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: rgb(23, 11, 11);
+}
